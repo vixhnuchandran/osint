@@ -64,7 +64,7 @@ This repository is organized into modules to facilitate step-by-step learning:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/osint-study-material.git
+   git clone https://github.com/vixhnuchandran/osint.git
    ```
 
 ````
@@ -72,7 +72,7 @@ This repository is organized into modules to facilitate step-by-step learning:
 2. Navigate into the directory:
 
    ```bash
-   cd osint-study-material
+   cd osint
    ```
 
 3. Explore the folders and start learning from the **Introduction** module.
